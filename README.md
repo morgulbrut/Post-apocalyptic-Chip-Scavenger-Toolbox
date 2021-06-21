@@ -6,9 +6,9 @@
   - [x] Powersupply
   - [x] Battery
   - [x] Cables
-  - [ ] Solder
+  - [x] Solder
   - [ ] Flux pen
-  - [ ] Tweezers
+  - [x] Tweezers
 
 ### Nice to have
   - [ ] Portable heating plate: http://www.miniware.com.cn/product/mhp30-mini-hot-plate-preheater/

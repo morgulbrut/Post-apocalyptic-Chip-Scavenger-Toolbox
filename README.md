@@ -1,6 +1,6 @@
 # Post-apocalyptic-Chip-Scavenger-Toolbox
 
-## Tools
+## EDC
 ### Needed
   - [x] Portable soldering iron  (Pinecil, TS80, TS100 or similar)
   - [x] Powersupply
@@ -9,6 +9,11 @@
   - [x] Solder
   - [ ] Flux pen
   - [x] Tweezers
+
+## At the Lab / At Home
+### Needed
+  - [x] Tweezers
+  - [x] Hot air station
 
 ### Nice to have
   - [ ] Portable heating plate: http://www.miniware.com.cn/product/mhp30-mini-hot-plate-preheater/
